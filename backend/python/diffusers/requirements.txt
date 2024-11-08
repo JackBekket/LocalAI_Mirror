@@ -1,0 +1,5 @@
+setuptools
+grpcio==1.67.1
+pillow
+protobuf
+certifi
